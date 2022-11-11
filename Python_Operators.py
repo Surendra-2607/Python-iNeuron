@@ -39,3 +39,30 @@ print("Full name = ", full_name)
 
 multiply_numeric_str = "Surendra"*5
 print("Multiply numeric str = ", multiply_numeric_str)
+
+# Assignment operators
+# =  , x = 5
+# += , x += 5 -> x = x + 5
+# -= , x -= 5 -> x = x - 5
+# *= , x *= 5 -> x = x * 5
+# /= , x /= 5 -> x = x / 5
+# //= , x //= 5 -> x = x // 5
+# %= , x %= 5 -> x = x % 5
+
+
+# Comparison Operators ( we compare operand values)
+# == , Equals to condition , x == y
+# != , Not Equals to condition , x != y
+# > , Greater than condition , x > y
+# < , Less than condition , x < y
+# >= , Greater than and Equals to condition , x >= y
+# <= , Less than and Equals to condition , x <= y
+
+a = 10
+b = 5
+print("Result of a == b , ", a == b)
+print("Result of a != b , ", a != b)
+print("Result of a > b , ", a > b)
+print("Result of a < b , ", a < b)
+print("Result of a >= b , ", a >= b)
+print("Result of a <= b , ", a <= b)
